@@ -39,7 +39,7 @@ current location in the game world, and the other is the message that will be pr
 Example
 ```
 {
-  "class": ["plotpoint"],
+  "class": ["storypoint"],
   "properties":{
     "message": "You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here.",
     "location":"West of House"
